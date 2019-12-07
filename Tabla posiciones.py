@@ -72,5 +72,5 @@ for S in range(1,S+1):
                 
             print("╚═══════════════════════════════════════════════════════════════════════╝")
         except:
-            print("GAY")
+            print("Introduce numeros bro")
     
